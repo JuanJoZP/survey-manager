@@ -1,0 +1,100 @@
+{
+  "git.ignoreWindowsGit27Warning": true,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "kite.showWelcomeNotificationOnStartup": false,
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onWindowChange",
+  "editor.wordWrapColumn": 60,
+  "liveshare.presence": true,
+  "window.zoomLevel": 0,
+  "liveshare.connectionMode": "relay",
+  "editor.formatOnSave": true,
+  "editor.parameterHints.enabled": false,
+  "editor.find.addExtraSpaceOnTop": false,
+  "editor.minimap.enabled": false,
+  "editor.quickSuggestions": true,
+  "eslint.run": "onSave",
+  "editor.fontSize": 15,
+  "eslint.alwaysShowStatus": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.startupEditor": "newUntitledFile",
+  "eslint.lintTask.enable": true,
+  "eslint.nodeEnv": "",
+  "files.exclude": {
+    "**/.git": false
+  },
+  "discord.detailsDebugging": "Coding {workspace}",
+  "discord.detailsEditing": "Coding {workspace}",
+  "discord.detailsIdle": "Ausente",
+  "discord.largeImage": "{LANG}",
+  "discord.largeImageIdle": "Ausente",
+  "discord.lowerDetailsDebugging": "Coding",
+  "discord.lowerDetailsEditing": "Coding",
+  "discord.lowerDetailsIdle": "Ausente",
+  "discord.lowerDetailsNotFound": "Coding",
+  "discord.workspaceElapsedTime": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+  "python.linting.lintOnSave": false,
+  "editor.formatOnPaste": true,
+  "workbench.sideBar.location": "right",
+  "workbench.tips.enabled": false,
+  "workbench.tree.indent": 12,
+  "workbench.tree.renderIndentGuides": "always",
+  "debug.allowBreakpointsEverywhere": true,
+  "terminal.integrated.confirmOnExit": true,
+  "terminal.integrated.cursorStyle": "line",
+  "emmet.excludeLanguages": [],
+  "emmet.optimizeStylesheetParsing": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "html": "html"
+  },
+  "emmet.preferences": {},
+  "emmet.showSuggestionsAsSnippets": true,
+  "files.associations": {
+    "*html": "html",
+    "*njk": "html"
+  },
+  "editor.tabSize": 2,
+  "lmptm.incognitoMode": false,
+  "lmptm.userData": false,
+  "lmptm.startPages": ["https://www.youtube.com", "https://music.youtube.com"],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
+  "terminal.integrated.sendKeybindingsToShell": true,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.sortOrder": "filesFirst",
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "prettier.disableLanguages": ["js"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
