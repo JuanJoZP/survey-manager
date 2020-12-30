@@ -6,4 +6,4 @@ fixed parcel-bundler/node-forge prototype pollution using npm-force-resolutions 
 
 * clone the repository
 * run npm install
-* start coding
+* npm start
