@@ -4,15 +4,14 @@ import { Router } from "@reach/router"
 
 // import pages here
 import Home from "./pages/home/index"
-import About from "./pages/about/index"
-import Contact from "./pages/contact/index"
+
+const NotFound = () => <h1>Not Found</h1>
 
 const App = () => {
   return (
     <Router>
       <Home path="/" />
-      <About path="/about" />
-      <Contact path="/contact" />
+      <NotFound default />
     </Router>
   )
 }
