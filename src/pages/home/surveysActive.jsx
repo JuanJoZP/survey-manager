@@ -13,8 +13,10 @@ const SurveysActive = ({ orderBy, reload }) => {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    // axios.get(llamada a la api ./surveys?filter=active?orderby=${orderBy} ).then(data => setSurveys(data))
-    // setLoading(false)
+    // axios.get(api call ./surveys?filter=active?orderby=${orderBy} ).then(data => {
+    //  setSurveys(data)
+    //  setLoading(false)
+    // })
   }, [reload])
 
   if (loading) {

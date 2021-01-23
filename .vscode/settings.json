@@ -96,5 +96,6 @@
   "prettier.disableLanguages": ["js"],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "prettier.endOfLine": "lf"
 }
