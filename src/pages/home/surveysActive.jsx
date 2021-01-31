@@ -33,7 +33,7 @@ const SurveysActive = ({ orderBy, reload }) => {
         <ul>
           {surveys.map(item => (
             <li key={`survey/${item.id}`}>
-              <Link to={`/${item.id}`}>{item.title}</Link>
+              <Link to={`/detail/${item.id}`}>{item.title}</Link>
             </li>
           ))}
         </ul>

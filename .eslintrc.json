@@ -23,6 +23,8 @@
       {
         "semi": false
       }
-    ]
+    ],
+    "no-nested-ternary": "off",
+    "no-use-before-define": ["error", { "functions": false, "classes": true }]
   }
 }
